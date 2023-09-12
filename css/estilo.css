@@ -1,12 +1,52 @@
-nav img{
-    width: 60px;
-    position: relative;
-    right: 300px;
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 30px;
 }
 
-.dropdown{
-    position: relative;
-    left: 1750px;
-    bottom: 60px;
+header{
+    background-color:#DEE1E3;
+    height: 50px;
 }
 
+h1,h2{
+    font-family: 'Inter', sans-serif;
+}
+header h1{
+    color: #2D6893;
+    margin-top: 0px;
+}
+
+.titulo{
+    position: relative;
+    top: 10px;
+    margin-left: 150px
+}
+
+.login{
+    text-align: right;
+    margin-right: 150px;
+    position: relative;
+    bottom: 90px;
+}
+
+header img{
+    width: 40px;
+    position:relative;
+    bottom: 50px;
+    left: 340px;
+}
+
+main h2{
+    text-align: center;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto ;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+}
