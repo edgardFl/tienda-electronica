@@ -3,19 +3,26 @@ body{
     font-family: Helvetica, Arial, sans-serif;
     line-height: 30px;
 }
+*{
+    font-family:'Roboto Condensed', sans-serif !important;
+}
 
 header{
     background-color:#DEE1E3;
     height: 50px;
 }
 
-h1,h2{
-    font-family: 'Inter', sans-serif;
-}
+
 header h1{
     color: #2D6893;
     margin-top: 0px;
 }
+
+.imagen{
+    width: 100%;
+   
+}
+
 
 .titulo{
     position: relative;
